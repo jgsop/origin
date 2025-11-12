@@ -6,8 +6,10 @@
 *.pyc
 __pycache__
 db.sqlite3
-media
-static
+media/
+static/
+project/local_settings.py
+contact_views.py
 
 # Backup files # 
 *.bak 
